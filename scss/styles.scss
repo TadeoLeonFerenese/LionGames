@@ -1,0 +1,10 @@
+$border: 5px solid black;
+$colorUno: red;
+$colorDos: #fff;
+$colorTres: lightgrey;
+$colorCuatro: black;
+.header {
+    border: $border;
+    background-color: $colorTres;
+    color: $colorDos;
+}
